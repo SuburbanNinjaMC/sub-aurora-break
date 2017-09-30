@@ -14,7 +14,7 @@ javascript:
       }, a);
   }
   document.onKeyPress = function(e) {
-    if (e.keyCode == 74) {
+    if (e.keyCode == 96) {
       subBreak();
     }
   }
