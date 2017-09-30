@@ -13,7 +13,7 @@ javascript:
         }
       }, a);
   }
-  document.onKeyPress = function(e) {
+  document.onkeypress = function(e) {
     if (e.keyCode == 96) {
       subBreak();
     }
